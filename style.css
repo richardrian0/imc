@@ -1,0 +1,43 @@
+body {
+    background-image: url(img7.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+
+}
+
+.caixadesoma {
+    margin-left: 2%;
+    margin-right: 60%;
+    
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+}
+
+
+
+footer {
+    bottom: 0vh;
+    margin-top: 900%;
+    position: fixed;
+}
+
+
+
+
+
+
+
